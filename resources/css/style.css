@@ -1,0 +1,20 @@
+body {
+  font-family: verdana, sans-serif;
+  background-color: black;
+}
+
+.heading {
+  text-align: center;
+}
+
+.heading h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+
+.heading a{
+  color: aquamarine;
+  font-size: 16px;
+  display: center;
+}
