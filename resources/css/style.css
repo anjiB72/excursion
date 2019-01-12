@@ -25,3 +25,13 @@ body {
   font-size: 21px;
   color: gray;
 }
+
+.guide a{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+footer p{
+  text-align: right;
+  color: gray;
+}
